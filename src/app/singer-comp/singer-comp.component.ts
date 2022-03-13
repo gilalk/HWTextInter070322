@@ -17,7 +17,7 @@ export class SingerCompComponent implements OnInit {
   }
   constructor() { }
   getSecretDetail(){
-    return 'I have new VIP show in Keysaria';
+    return 'I have New VIP show in Keysaria';
   }
   ngOnInit(): void {
   }
